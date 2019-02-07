@@ -1,2 +1,2 @@
 # bbc-gol
-My Game of Life Implementation using JavaScript
+My Game of Life Implementation using JavaScript.
